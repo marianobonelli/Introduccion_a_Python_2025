@@ -1,4 +1,4 @@
-# INTRODUCCIÓN A LA PROGRAMACIÓN Y ANÁLISIS DE DATOS CON PYTHON, ORIENTADO A LA PRODUCCIÓN AGROPECUARIA - 2ª EDICIÓN
+# INTRODUCCIÓN A LA PROGRAMACIÓN Y ANÁLISIS DE DATOS CON PYTHON, ORIENTADO A LA PRODUCCIÓN AGROPECUARIA - 3ª EDICIÓN
 
 ## Responsables del curso:
 
@@ -8,18 +8,17 @@ El curso estará a cargo de Mariano Bonelli, Nicolás Soria y Thomas Varela, cie
 
 ## Duración de la actividad: 
 El curso consta de 8 clases teórico-prácticas de dos horas cada una, que se dictarán en vivo a través de Google Meet. Las clases también quedarán grabadas para acceso on-demand.
-Las clases se llevarán a cabo los martes y jueves del 20 de agosto al 12 de septiembre, de 18:00 a 20:00 hs.
+Las clases se llevarán a cabo los martes y jueves del -- de ---- al -- de ----, de --:00 a --:00 hs.
 
 ## Requerimientos: 
 Es necesario que los participantes cuenten con una computadora personal y conexión a internet. Se recomienda, aunque no es excluyente, tener conocimientos básicos en el manejo de datos espaciales.
 
 ## Costo del curso por participante: 
 
-[![Inscripciones](https://img.shields.io/badge/-Inscripciones-gray?style=flat&logo=google&logoColor=white)](https://bit.ly/Introduccion_a_Python_2024)
+[![Inscripciones](https://img.shields.io/badge/-Inscripciones-gray?style=flat&logo=google&logoColor=white)](https://linktr.ee/geoagrodatalab)
 
-* Estudiantes y Docentes de la Universidad Nacional de Río Cuarto o de la Universidad Nacional de Mar del Plata 25,000 pesos argentinos.
-* Inscripción general 35,000 pesos argentinos.
-* Inscripción luego del 20 de agosto: 70,000 pesos argentinos.
+* Estudiantes y Docentes de Universidades Nacionales 100,000 pesos argentinos.
+* Inscripción general 350,000 pesos argentinos.
 
 ## Fundamentos de la actividad: 
 Python se ha consolidado como uno de los lenguajes de programación más versátiles y de mayor auge en la ciencia de datos, siendo la base de implementaciones de modelos de inteligencia artificial y técnicas avanzadas de teledetección y visión computacional. Estas aplicaciones tienen el potencial de revolucionar la producción agropecuaria, facilitando el monitoreo, predicción y optimización de cultivos, y fomentando una agricultura más sostenible y eficiente. 
